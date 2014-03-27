@@ -1,0 +1,48 @@
+img {
+    display:block;
+    height:auto;
+    width:auto;
+    margin:auto;
+    alignment-adjust: auto;
+}
+#share {
+    background-color:#C60;
+    height:25px;
+    width:115px;
+    margin:auto;
+    text-align:center;
+    float:right;
+}
+h7 {
+    float:right;
+}
+#p {
+    width: auto;
+    word-wrap:break-word;
+}
+#chk {
+    height:auto;
+    width:auto;
+    margin:auto;
+    text-align:left;
+    float: none;
+  word-wrap:break-word;
+}
+
+ul {
+    width: 30em;
+}
+ul li {
+    float: left;
+    width: 20em;
+}
+br {
+    clear: left;
+}
+div.note {
+    margin-bottom: 1em;
+}
+}
+#foot {
+    float: left;
+}
